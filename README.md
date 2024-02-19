@@ -1,1 +1,1 @@
-# Insurance_Purchase_Model
+# Insurance Purchase Model
